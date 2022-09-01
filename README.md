@@ -6,10 +6,8 @@ The extraordinary olfactory capabilities in detection and rescue dogs are well-k
 The analysis can be reconstructed using the excel files and the matlab codes provided. Simply locate the excel files in a your data folder and initiate the analysis pocess via the main.m file.
 
 This project is published and can be found here:
-
 An investigation on the olfactory capabilities of domestic dogs (Canis lupus familiaris)
 E Ferrando, CD Dahl - Animal Cognition, 2022
-
 Olfactory detection and discrimination in domestic dogs (Canis lupus familiaris)
 E Ferrando, CD Dahl - bioRxiv, 2022
 
