@@ -31,10 +31,3 @@ Animal Cognition: Springer Nature has partnered with Copyright Clearance Center'
 
 bioRxiv: The copyright holder for this preprint is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made available under a CC-BY-NC 4.0 International license.
 
-
-
-
-## Demo
-
-Insert gif or link to demo
-
