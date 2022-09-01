@@ -3,6 +3,8 @@
 
 The extraordinary olfactory capabilities in detection and rescue dogs are well-known. However, the olfactory performance varies by breed and search environment (Jezierski et al., 2014), as well as by the quantity of training (Horowitz et al., 2013). While detection of an olfactory cue inherently demands a judgment regarding the presence or absence of a cue at a given location, olfactory discrimination requires an assessment of quantity, a task demanding more attention and, hence, decreasing reliability as an informational source (Horowitz et al., 2013). This study aims at gaining more clarity on detection and discrimination of olfactory cues in untrained dogs and in a variety of dog breeds. Using a two-alternative forced choice (2AFC) paradigm, we assessed olfactory detection scores by presenting a varied quantity of food reward under one or the other hidden cup, and discrimination scores by presenting two varied quantities of food reward under both hidden cups. We found relatively reliable detection performances across all breeds and limited discrimination abilities, modulated by breed. We discuss our findings in relation to the cognitive demands imposed by the tasks and the cephalic index of the dog breeds.
 
+The analysis can be reconstructed using the excel files and the matlab codes provided. Simply locate the excel files in a your data folder and initiate the analysis pocess via the main.m file.
+
 This project is published and can be found here:
 
 An investigation on the olfactory capabilities of domestic dogs (Canis lupus familiaris)
