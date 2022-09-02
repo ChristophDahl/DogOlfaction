@@ -11,7 +11,7 @@ E Ferrando, CD Dahl - Animal Cognition, 2022
 Olfactory detection and discrimination in domestic dogs (Canis lupus familiaris)
 E Ferrando, CD Dahl - bioRxiv, 2022
 
-A review on our article has been published by Tina Bloom and can be found here:
+A review on our article has been published by Tina Bloom (PhD) and can be found here:
 https://www.qeios.com/read/K4JU1Q
 
 
