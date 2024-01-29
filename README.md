@@ -14,7 +14,6 @@ E Ferrando, CD Dahl - bioRxiv, 2022
 A review on our article has been published by Tina Bloom (PhD) and can be found here:
 https://www.qeios.com/read/K4JU1Q
 
-
 ## Acknowledgements
 
  - This study was funded via the Ambizione Fellowship of the Swiss National Science Foundation (SNSF) (PZ00P3_154741), the Startup-funding of Taipei Medical University (108-6402-004-112) and the Taiwan Ministry of Science and Technology (110-2311-B-038-002) awarded to CDD.
